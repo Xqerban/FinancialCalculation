@@ -37,7 +37,7 @@
 mkdir build
 cd build
 cmake ..
-make
+cmake --build .
 ```
 
 ### 运行程序
