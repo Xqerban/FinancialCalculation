@@ -54,7 +54,6 @@ ehthumbs.db
 Thumbs.db
 
 # Test output files
-output.csv
 large_input.csv
 memory_test.csv
 
